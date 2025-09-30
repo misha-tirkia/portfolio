@@ -372,6 +372,10 @@ a:hover {
         top: 350px;
     }
 
+    .context {
+        margin: 0 auto;
+    }
+
     .protext {
         position: relative;
         left: 0;
@@ -442,4 +446,5 @@ a:hover {
         bottom: 0;
         position: relative;
     }
+
 }
